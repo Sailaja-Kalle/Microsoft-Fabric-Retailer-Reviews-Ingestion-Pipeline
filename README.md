@@ -131,8 +131,6 @@ After execution, the **control table** is updated:
 
 ## 📊 Power BI Output  
 
-![Power BI Snapshot Placeholder](screenshots/powerbi_reviews.png)  
-
 **Visuals Include:**  
 - Product ratings over time  
 - Category‑wise performance  
